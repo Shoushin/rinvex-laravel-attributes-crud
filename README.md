@@ -1,4 +1,4 @@
-4 Easy Step
+4 Easy Steps
 
 1. Composer install
 2. Configure .env file
